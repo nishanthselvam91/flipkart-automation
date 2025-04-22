@@ -4,13 +4,13 @@ This project automates the product purchase flow on the Flipkart website using C
 
 ---
 
-Navigate to the Project Directory
+Navigate to the Project Directory :
 cd flipkart-automation
 
-Install Project Dependencies
+Install Project Dependencies :
 npm install
 
-Run the tests
+Run the tests :
 npx cypress open
 
 ## Project Setup Instructions
